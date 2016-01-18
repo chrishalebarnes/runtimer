@@ -1,0 +1,4 @@
+{
+    "environment-path": "fixtures/environments",
+    "default-environment": "test"
+}

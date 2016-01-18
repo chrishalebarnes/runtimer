@@ -1,0 +1,11 @@
+.dub
+docs
+docs.json
+__dummy.html
+*.o
+*.obj
+*.a
+__test*
+Thumbs.db
+.DS_Store
+dub.selections.json

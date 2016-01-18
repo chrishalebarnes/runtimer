@@ -1,0 +1,28 @@
+{
+    "name": "some-name",
+    "http": {
+      "host": {
+        "port": 3000,
+        "name": "127.0.0.1"
+      }
+    },
+    "data": {
+      "database": "PostgreSQL",
+      "host": {
+        "port": 5432,
+        "name": "127.0.0.1"
+      },
+      "credentials": {
+        "username": "admin",
+        "password": "password"
+      }
+    },
+    "assets": {
+        "directory": "public",
+        "files": "*"
+    },
+    "logging": {
+        "level": "debug",
+        "path": "log/test.log"
+    }
+}
