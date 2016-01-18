@@ -4,6 +4,15 @@ Runtimer
 Application runtime configuration for applications built in [the D programming language](http://dlang.org/).
 
 ## Getting Started
+Add [runtimer](https://github.com/chrishalebarnes/runtimer) to `dub.json` and run `dub` to fetch the dependencies.
+```json
+{
+    ...
+    "dependencies": {
+        "runtimer": "~>0.1.0"
+    }
+}
+```
 Import `runtimer`
 ```D
 import runtimer;
