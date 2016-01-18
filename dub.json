@@ -1,7 +1,7 @@
 {
 	"name": "runtimer",
-	"description": "A runtime configuration library.",
-	"copyright": "Copyright © 2015, Chris Barnes",
+	"description": "Application runtime configuration for applications built in the D programming language.",
+	"copyright": "Copyright © 2016, Chris Barnes",
 	"authors": ["Chris Barnes"],
 	"dependencies": {
   	"vibe-d:data": "~>0.7.27-alpha.3"
