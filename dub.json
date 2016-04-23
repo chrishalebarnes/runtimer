@@ -5,7 +5,7 @@
 	"copyright": "Copyright © 2016, Chris Barnes",
 	"authors": ["Chris Barnes"],
 	"dependencies": {
-  	"vibe-d:data": "~>0.7.27-alpha.3"
+  	"vibe-d:data": "~>0.7.28"
 	},
   "targetType": "staticLibrary"
 }
